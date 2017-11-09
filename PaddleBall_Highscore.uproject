@@ -1,0 +1,14 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
